@@ -1,6 +1,7 @@
 ---
-title: 🐹 HammyBase 小仓鼠：你的全方位仓鼠百科与基地
+title: HammyBase 小仓鼠
 ---
+
 
 ## 🛠️ 导航矩阵 (Quick Navigation)
 
